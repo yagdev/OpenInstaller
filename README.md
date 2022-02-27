@@ -21,12 +21,12 @@ Setting up your modpacks to work with OpenInstaller is actually really simple an
 ## 1.1	– Creating package
 Here we’ll cover creating the actual *.zip file to upload to a server for the OpenInstaller client to download.
 
-###### 1.1.1	– Adding mods
+## 1.1.1	– Adding mods
 Simply create a folder and drop your mods folder inside like so:
 ![Folder Creation](https://i.imgur.com/zcvggJF.jpg)
 Then compress them that whole folder in *.zip format and skip to 1.2 unless you need to use more folders or if you want to use the versioning system. In these cases, continue reading.
 
-###### 1.1.2	– Extra Folders
+## 1.1.2	– Extra Folders
 OpenInstaller features a system for those who need to add extra folders alongside the mods folder, so here’s how we set that up:
 Firstly you add all of the extra folders alongside the mods folder in the folder that we created earlier like so:
 ![Extra Folders](https://i.imgur.com/i4vuwoy.jpg)
@@ -39,7 +39,7 @@ This is how it should look for me:
 Then you save that script file. 
 Then compress all of these files into a *.zip file. If you want to use the versioning system, skip to 1.2.
 
-###### 1.1.3	– Versioning System
+## 1.1.3	– Versioning System
 Future versions of OpenInstaller will feature an updating system that checks if the modpack is up to date. If you wish to prepare your modpack for that feature, follow these steps:
 Start by creating a text file apart from the *.zip file that you made on using the previous steps. This is an example of that being done:
 ![Second Text File](https://i.imgur.com/JxcBvch.png)
